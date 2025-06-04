@@ -1,4 +1,5 @@
 Contact Manager App 
-Technology: 
-  -Kotlin using MVVM, LiveData, DataBinding
-  
+
+programming language 
+  -Kotlin 
+    using MVVM, LiveData, DataBinding
